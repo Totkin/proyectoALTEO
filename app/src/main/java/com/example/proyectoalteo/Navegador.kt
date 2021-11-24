@@ -32,4 +32,5 @@ class Navegador : AppCompatActivity() {
         miVisorWeb.settings.useWideViewPort=true                   //configuramos para que no tenga limites al cargar el sitio WEB
         miVisorWeb.settings.setAppCacheEnabled(true)            //el guardado de cache esta absoleto para esta API, pero aun lo pondre
     }
+    //fin
 }
