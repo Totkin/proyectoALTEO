@@ -1,2 +1,2 @@
 # proyectoALTEO
-es un proyecto de moviles
+## es un proyecto de moviles
